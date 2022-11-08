@@ -1,0 +1,50 @@
+.form {
+  border-radius: 10px;
+  border: 1px solid #284b63;
+  background-color: #ffffff;
+  padding: 20px;
+  padding-bottom: 0;
+}
+.form p {
+  font-weight: 200;
+}
+
+.selectBtn {
+  margin: 30px 0;
+}
+
+.selectBtn label {
+  background-color: #284b63;
+  height: 40px;
+  width: 60px;
+  color: #d9d9d9;
+  border-radius: 10px 0;
+  padding: 10px 15px;
+  margin: 20px 0;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.selectBtn label:hover {
+  background-color: #3e5d73;
+}
+
+.form button {
+  background-color: #284b63;
+  height: 40px;
+  width: 120px;
+  color: #d9d9d9;
+  border-radius: 10px 10px 0 0;
+  padding: 10px 15px;
+  margin: 20px 0;
+  cursor: pointer;
+  transition: 0.3s;
+  margin: 0 auto;
+  border: none;
+  margin-top: 30px;
+  float: right;
+}
+
+.form button:hover {
+  background-color: #3e5d73;
+}
